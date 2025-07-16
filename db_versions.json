@@ -1,0 +1,29 @@
+{
+	"windows": {
+		"mysql": {
+			"8.0.42": "https://dev.mysql.com/get/Downloads/MySQL-8.0/mysql-8.0.42-winx64.zip",
+			"8.4.5_LTS": "https://dev.mysql.com/get/Downloads/MySQL-8.4/mysql-8.4.5-winx64.zip",
+			"9.3.0_Innovation": "https://dev.mysql.com/get/Downloads/MySQL-9.3/mysql-9.3.0-winx64.msi" 
+		},
+		"mariadb": {
+			"10.3.39": "https://archive.mariadb.org/mariadb-10.3.39/winx64-packages/mariadb-10.3.39-winx64.zip",
+			"10.4.34": "https://archive.mariadb.org/mariadb-10.4.34/winx64-packages/mariadb-10.4.34-winx64.zip",
+			"10.5.29": "https://archive.mariadb.org/mariadb-10.5.29/winx64-packages/mariadb-10.5.29-winx64.zip",
+			"10.6.22": "https://archive.mariadb.org/mariadb-10.6.22/winx64-packages/mariadb-10.6.22-winx64.zip",
+			"10.11.13": "https://archive.mariadb.org/mariadb-10.11.13/winx64-packages/mariadb-10.11.13-winx64.zip",
+			"11.3.2": "https://archive.mariadb.org/mariadb-11.3.2/winx64-packages/mariadb-11.3.2-winx64.zip",
+			"11.4.7": "https://archive.mariadb.org/mariadb-11.4.7/winx64-packages/mariadb-11.4.7-winx64.zip",
+			"11.8.2": "https://archive.mariadb.org/mariadb-11.8.2/winx64-packages/mariadb-11.8.2-winx64.zip",
+			"12.0.1": "https://archive.mariadb.org/mariadb-12.0.1/winx64-packages/mariadb-12.0.1-winx64.zip"
+		},
+		"postgtres": {},
+		"mongo": {
+			"6.0.24": "https://fastdl.mongodb.org/windows/mongodb-windows-x86_64-6.0.24.zip",
+			"7.0.21": "https://fastdl.mongodb.org/windows/mongodb-windows-x86_64-7.0.21.zip",
+			"8.0.11": "https://fastdl.mongodb.org/windows/mongodb-windows-x86_64-8.0.11.zip"
+		}
+		
+	},
+	"linux": {},
+	"mac-os": {}
+}
