@@ -3,7 +3,7 @@
 		"MySQL": {
 			"8.0.42": "https://dev.mysql.com/get/Downloads/MySQL-8.0/mysql-8.0.42-winx64.zip",
 			"8.4.5_LTS": "https://dev.mysql.com/get/Downloads/MySQL-8.4/mysql-8.4.5-winx64.zip",
-			"9.3.0_Innovation": "https://dev.mysql.com/get/Downloads/MySQL-9.3/mysql-9.3.0-winx64.msi" 
+			"9.4.0_Innovation": "https://dev.mysql.com/get/Downloads/MySQL-9.4/mysql-9.4.0-winx64.zip" 
 		},
 		"MariaDB": {
 			"10.3.39": "https://archive.mariadb.org/mariadb-10.3.39/winx64-packages/mariadb-10.3.39-winx64.zip",
@@ -30,6 +30,13 @@
 		}
 		
 	},
-	"linux": {},
+	"linux": {
+		"MySQL": {
+			"8.0.43": "https://dev.mysql.com/get/Downloads/MySQL-8.0/mysql-8.0.43-linux-glibc2.28-x86_64.tar.xz",
+			"8.4.6_LTS": "https://dev.mysql.com/get/Downloads/MySQL-8.4/mysql-8.4.6-linux-glibc2.28-x86_64.tar.xz",
+			"9.4.0_Innovation": "https://dev.mysql.com/get/Downloads/MySQL-9.4/mysql-9.4.0-linux-glibc2.28-x86_64.tar.xz"
+		}
+	},
 	"mac-os": {}
 }
+
