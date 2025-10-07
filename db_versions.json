@@ -35,8 +35,14 @@
 			"8.0.43": "https://dev.mysql.com/get/Downloads/MySQL-8.0/mysql-8.0.43-linux-glibc2.28-x86_64.tar.xz",
 			"8.4.6_LTS": "https://dev.mysql.com/get/Downloads/MySQL-8.4/mysql-8.4.6-linux-glibc2.28-x86_64.tar.xz",
 			"9.4.0_Innovation": "https://dev.mysql.com/get/Downloads/MySQL-9.4/mysql-9.4.0-linux-glibc2.28-x86_64.tar.xz"
+		},
+		"MongoDB": {
+			"8.2.1.Ubuntu 24.04 x64": "https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-ubuntu2404-8.2.1.tgz",
+			"8.0.15.Ubutnu 24.04 x64": "https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-ubuntu2404-8.0.15.tgz"
+			
 		}
 	},
 	"mac-os": {}
 }
+
 
